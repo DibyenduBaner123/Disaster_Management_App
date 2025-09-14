@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome",
+  "modules": "Modules",
+  "hazard_map": "Hazard Map",
+  "simulations": "Simulations",
+  "admin_dashboard": "Admin Dashboard",
+  "progress_monitor": "Progress Monitor",
+  "assign_module": "Assign Module",
+  "schedule_drill": "Schedule Drill",
+  "export_report": "Export Readiness Report",
+  "logout": "Logout"
+}

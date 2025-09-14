@@ -1,0 +1,16 @@
+/* src/styles/Modules.css */
+.module-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.module-list li {
+  border-bottom: 1px solid #eee;
+  padding: 1rem 0;
+}
+
+.module-list h3 {
+  margin-bottom: 0.4rem;
+  font-size: 1.15rem;
+  color: #0056b3;
+}

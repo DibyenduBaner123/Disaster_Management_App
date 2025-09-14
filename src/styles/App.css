@@ -1,0 +1,49 @@
+/* src/styles/App.css */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Arial', 'sans-serif';
+  background-color: #f7fafd;
+  color: #222;
+}
+
+h1, h2, h3 {
+  color: #007bff;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.06);
+}
+
+/* For form labels and buttons */
+label {
+  font-weight: 500;
+  margin-right: 8px;
+}
+button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1.25rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+}

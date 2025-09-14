@@ -1,0 +1,12 @@
+{
+  "welcome": "स्वागत है",
+  "modules": "मॉड्यूल",
+  "hazard_map": "जोखिम मानचित्र",
+  "simulations": "अनुकलन",
+  "admin_dashboard": "प्रशासन डैशबोर्ड",
+  "progress_monitor": "प्रगति मॉनिटर",
+  "assign_module": "मॉड्यूल असाइन करें",
+  "schedule_drill": "ड्रिल शेड्यूल करें",
+  "export_report": "तैयारी रिपोर्ट निर्यात करें",
+  "logout": "लॉग आउट"
+}

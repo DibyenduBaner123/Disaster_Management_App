@@ -1,0 +1,21 @@
+/* src/styles/HazardMap.css */
+.leaflet-container {
+  width: 100% !important;
+  height: 600px !important;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.10);
+  margin: 0 auto;
+}
+
+/* Legend */
+.hazard-legend {
+  position: absolute;
+  bottom: 24px;
+  right: 24px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.13);
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  color: #333;
+}
